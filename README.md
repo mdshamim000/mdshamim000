@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android + Flutter Development
 - 🌱 I’m currently learning Redis, MongoDB, CoachDB, Data Modeling, IoT, ComputerVision.
 - 💞️ I’m looking to collaborate on Flutter Development
-- 📫 Ping me at md_shamim_cs@outlook.com
+- 📫 Ping me at md_shamim_cs @outlook.com
 - Research Interests: 
 Big data analytics
 Deep Learning, Modeling and Simulation
